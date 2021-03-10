@@ -56,7 +56,7 @@ public final static int NUM_COLS = 20;
   }
 
   public void keyPressed() {
-    if(key == 'r') // pause the program until you press r again to unpause it
+    if(key == 'p') // pause the program until you press r again to unpause it
       running = !running;
   }
 
