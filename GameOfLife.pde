@@ -141,5 +141,5 @@ public final static int NUM_COLS = 20;
     public void setLife(boolean living) {
       alive = living;
     }
-  }
+ 
 }
